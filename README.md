@@ -1,0 +1,2 @@
+# netlify
+Skúšam netlify.com
